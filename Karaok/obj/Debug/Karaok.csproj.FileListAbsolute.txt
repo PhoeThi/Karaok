@@ -1,0 +1,141 @@
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Karaok.dll.config
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Karaok.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Karaok.pdb
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Antlr3.Runtime.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\EntityFramework.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Data.Edm.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Data.OData.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Newtonsoft.Json.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Net.Http.Formatting.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Spatial.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Helpers.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.OData.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.Tracing.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.WebHost.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Mvc.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Optimization.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Providers.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Razor.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.Razor.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\WebGrease.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\EntityFramework.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Newtonsoft.Json.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Net.Http.Formatting.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Helpers.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.WebHost.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Mvc.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Razor.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.WebPages.Razor.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.Tracing.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Web.Http.OData.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Data.Edm.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\Microsoft.Data.OData.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\System.Spatial.xml
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\de\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\es\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\fr\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\it\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ja\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ko\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\ru\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\obj\Debug\Karaok.dll
+C:\Users\THSH\Documents\Visual Studio 2013\Projects\Karaok\Karaok\obj\Debug\Karaok.pdb
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Karaok.dll.config
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Karaok.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Karaok.pdb
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Antlr3.Runtime.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\EntityFramework.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Data.Edm.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Data.OData.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Newtonsoft.Json.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Net.Http.Formatting.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Spatial.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Helpers.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.OData.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.Tracing.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.WebHost.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Mvc.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Optimization.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Providers.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Razor.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.Deployment.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.Razor.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\WebGrease.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\EntityFramework.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Newtonsoft.Json.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Net.Http.Formatting.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Helpers.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.WebHost.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Mvc.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Razor.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.Deployment.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.WebPages.Razor.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.Tracing.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Web.Http.OData.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Data.Edm.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\Microsoft.Data.OData.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\System.Spatial.xml
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\de\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\es\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\fr\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\it\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ja\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ko\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\ru\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\obj\Debug\Karaok.dll
+C:\Users\THSH\Desktop\Karaok\Karaok\obj\Debug\Karaok.pdb
+C:\Users\THSH\Desktop\Karaok\Karaok\obj\Debug\Karaok.csprojResolveAssemblyReference.cache
