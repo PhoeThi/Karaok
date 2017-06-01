@@ -1,0 +1,20 @@
+<___________For Host Setting ___________>
+http://192.168.0.173:4704/api/PressKeyValue?keypressvalue=ae
+
+http://localhost:4704/api/PressKeyValue?keypressvalue=m
+
+Go to C:\User\THS\Document\IISExpress\application.config
+Change 
+<binding protocol="http" bindingInformation="*:4704:localhost" />
+to
+<binding protocol="http" bindingInformation="*:4704:*" />
+
+Turn off Window Firewall
+Restart IIS
+<___________                 ___________>
+
+Album
+Artist
+Song
+SongList
+SelectedSong 
